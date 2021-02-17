@@ -1,0 +1,30 @@
+﻿{
+  "FullDialogue": [
+  
+    {
+      "speaker": "Kitty",
+      "conversation":"It looks like I need some money to buy a costume. It would take too long to keep posting selfies.",
+      "choices":null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation":"Good thing I know a photographer who LOVES to shoot me.",
+      "choices": "Get Photographer"
+    },
+    {    
+      "speaker": "Narrator",
+      "conversation": "That was fun!",
+      "choices": "Click anywhere to continue!"
+    },  
+    {
+      "speaker": "Kitty",
+      "conversation": "Great! I have enough money to buy the outfit!",
+      "choices": "Buy Sexy Outfit"
+    },    
+    {
+      "speaker": "Kitty",
+      "conversation": "Niiice! I should head back!",
+      "choices": "Go to the Dorm"
+     } 
+  ]
+}

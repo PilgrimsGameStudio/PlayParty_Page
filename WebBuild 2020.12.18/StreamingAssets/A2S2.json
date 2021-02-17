@@ -1,0 +1,73 @@
+﻿<FullDialogue>
+  <Dialogues>
+    <Dialogue>
+      <speaker>0</speaker>
+      <conversation>Kitty needs a quick buck so she can buy flowers for tonight's dinner. She knows that posting a quick selfie will get her enough money.</conversation>
+      <choices></choices>
+    </Dialogue>    
+    <Dialogue>
+      <speaker>1</speaker>
+      <conversation>I'll post a nice pic on my fan page.</conversation>
+      <choices>
+        <choice>Take a Sexy Selfie</choice>
+      </choices>
+    </Dialogue>
+
+    <Dialogue>
+      <speaker>5</speaker>
+      <conversation></conversation>
+      <choices>
+      </choices>
+    </Dialogue>
+    
+    <Dialogue>
+      <speaker>3</speaker>
+      <conversation>This is a good one.</conversation>
+      <choices>
+      </choices>
+    </Dialogue>
+    <Dialogue>
+      
+      <speaker>3</speaker>
+      <conversation>This one shows off my artistic side!</conversation>
+      <choices>
+      </choices>
+    </Dialogue>
+
+    <Dialogue>
+      <speaker>3</speaker>
+      <conversation>They are going to love this one!</conversation>
+      <choices>
+      </choices>
+    </Dialogue>
+
+    <Dialogue>
+      <speaker>4</speaker>
+      <conversation>Collect Every Dollar!</conversation>
+      <choices>
+        <choice></choice>
+      </choices>
+    </Dialogue>
+    <Dialogue>
+      <speaker>1</speaker>
+      <conversation>Nice! Now I can buy flowers for tonight!</conversation>
+      <choices>
+        <choice>Buy Flowers</choice>
+      </choices>
+    </Dialogue>
+    <Dialogue>
+      <speaker>2</speaker>
+      <conversation></conversation>
+      <choices>
+        <choice></choice>
+      </choices>
+    </Dialogue>
+    <Dialogue>
+      <speaker>1</speaker>
+      <conversation>I'm so excited and hungry! Can't wait!</conversation>
+      <choices>
+        <choice></choice>
+      </choices>
+    </Dialogue>
+  </Dialogues>
+</FullDialogue>

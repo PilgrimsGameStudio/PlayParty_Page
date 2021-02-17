@@ -1,0 +1,24 @@
+﻿{
+  "FullDialogue": [
+    {
+      "speaker": "Kitty",
+      "conversation": "I am here. I have the costume and my tickets. I am so in the mood for fun.",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "Wow, Kitty, you look so hot. You will be a delish dish at the party!",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "I can't wait to get this party started!",
+      "choices": "Go to Party"
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "And we are off!...You enjoy these snaps from past parties!",
+      "choices": null
+    }
+  ]
+}
