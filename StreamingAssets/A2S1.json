@@ -1,0 +1,39 @@
+﻿{
+  "FullDialogue": [
+    {
+      "speaker": "Amber",
+      "conversation": "Hi, I'm Amber! I am CEO of Fun around here.",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "Hi! I'm Kitty! I'm new. I just moved in from Idaho.",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "Great! You will fit right in. We like to party!",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "It sounds like there is a fun party next door. Can we go?",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "Ahh, yeah, that's by invite-only. I am heading there, but you will need tickets.",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "Oooh, how do I get tickets?",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "I'll show you. Come to my room for a late-night dinner. Buy some flowers!",
+      "choices": null
+    }
+  ]
+}

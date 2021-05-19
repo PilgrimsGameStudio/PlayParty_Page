@@ -1,0 +1,19 @@
+{
+  "FullDialogue": [
+    {
+      "speaker":0,
+		  "conversation":"New Beginnings: Kitty is starting her school year at the University of Perky Peeps. She spent her last dollar on bus fare.",
+      "choices":null
+    },
+    {
+      "speaker":1,
+		  "conversation":"I am so excited. This place looks awesome. I want to party with everyone!",
+      "choices":null
+    },
+    { 
+      "speaker":1,
+		  "conversation":"This is going to be so much fun!",
+      "choices":["Go to the Dorm"]
+    }
+  ]
+}

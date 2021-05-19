@@ -1,0 +1,49 @@
+﻿{
+  "FullDialogue": [
+    {
+      "speaker": "Amber",
+      "conversation": "Thanks for these wonderful flowers. I love them. They are so beautiful.conversation",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "Of course! I was looking forward to this the whole day. I am so hungry.conversation",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "Awesome! It's dinner time. Let's see what's on the platter. I think you are going to love it.conversation",
+      "choices": "Lift Platter Cover"
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "Heeey! That's a picture of you!conversation",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "Ha! I guess I am on the menu. Well, it's time to get busy. Go on now.conversation",
+      "choices": "Slide Under Table"
+    },
+    {
+      "speaker": "Narrator",
+      "conversation": "",
+      "choices": "Click anywhere to continue!"
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "That was good! I enjoyed it, and you earned party tickets. This party is only 2 tickets. Other parties will cost more.conversation",
+      "choices": null
+    },
+    {
+      "speaker": "Kitty",
+      "conversation": "Yay!!! That was fun, and it totally hit the spot!conversation",
+      "choices": null
+    },
+    {
+      "speaker": "Amber",
+      "conversation": "It is a themed party. Come back in a costume and we will have even more fun.conversation",
+      "choices": null
+    }
+  ]
+}
